@@ -1,0 +1,6 @@
+@HttpClientWrapperDemo_HostAddress = http://localhost:5285
+
+GET {{HttpClientWrapperDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
